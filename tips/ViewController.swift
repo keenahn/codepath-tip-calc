@@ -84,6 +84,7 @@ class ViewController: UIViewController {
             billField.text = "$"
             UIView.animateWithDuration(0.5, animations: {
                 self.outputView.alpha = 0
+                self.billField.center.y += 190
             })
         
         }
