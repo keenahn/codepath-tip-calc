@@ -11,8 +11,10 @@ Completed:
 * [x] Optional: UI animations
 
 
-* [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-I chose not to implement this one because the interface look cluttered.
+*
+  [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder.
+
+  * I chose not to implement this one because the interface look cluttered.
 
 
 
